@@ -44,7 +44,7 @@ The dataset used for this project is `student_data.csv`, which contains informat
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/academic-performance-forecasting.git
+   git clone https://github.com/am-nimrah/Academic-Performance-Forecasting-System.git
    ```
 
 2. **Install Dependencies:**
